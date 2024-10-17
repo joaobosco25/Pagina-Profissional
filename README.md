@@ -6,27 +6,27 @@ Nesta página, poderá ver minhas informações, alguns certificados e currícul
 - [Funcionalidades](#funcionalidades)
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura da página.
-- **CSS3**: Estilo e layout.
+- **CSS**: Estilo e layout.
+- **JavaScript**: Interação de modals
 ## Funcionalidades
-- Exibição de uma foto de perfil...
+- Informações precisas vistas através dos modals, histórico acadêmico, visualização e download de curriculo e certificados...
 ## Como Usar
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ## Exemplo de Uso
 ![Exemplo de Página](assets/Capturar.png)
 ## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um *pull request*...
+Contribuições são bem-vindas! Caso queiram me contatar para fazer parte de alguma comunidade de estudos e de contribuiçoes, estou a postos. Sinta-se à vontade para abrir um *pull request*...
 ## Licença
 Este projeto está licenciado sob a MIT License...
 ## Descrição
 
-Esta página foi desenvolvida para mostrar informações relevantes sobre o desenvolvedor João Bosco, incluindo seus portfólios acadêmicos e sonhos profissionais. Os usuários podem baixar documentos em PDF e visualizar detalhes sobre as metas de carreira.
+Esta página foi desenvolvida para mostrar informações relevantes sobre mim, como desenvolvedor e profissional, incluindo portfólios acadêmicos, sonhos profissionais, metas e currículo atualizado... Os usuários podem baixar documentos em PDF e visualizar detalhes sobre as metas de carreira.
 
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura da página.
-- **CSS3**: Estilo e layout.
+- **CSS**: Estilo e layout.
 - **JavaScript**: Funcionalidade interativa, como modais.
 - **Google Fonts**: Tipografia.
 
