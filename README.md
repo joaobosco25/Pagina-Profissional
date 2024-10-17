@@ -1,3 +1,6 @@
+## Página Profissional
+![João Bosco](assets/Capturar.png)
+
 # Projeto da Página Pessoal
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
@@ -11,6 +14,10 @@ Este é um projeto de uma página pessoal interativa, onde você pode conhecer m
 - [Exemplo de Uso](#exemplo-de-uso)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
+
+- ## Descrição
+
+🎉 Esta página foi desenvolvida para mostrar informações relevantes sobre o desenvolvedor João Bosco, incluindo seus portfólios acadêmicos e sonhos profissionais. Os usuários podem baixar documentos em PDF e visualizar detalhes sobre as metas de carreira.
 
 ## Tecnologias Utilizadas
 - **HTML5**: Estrutura da página.
@@ -27,20 +34,12 @@ Este é um projeto de uma página pessoal interativa, onde você pode conhecer m
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/joaobosco25/Pagina-Profissional.git
-## Exemplo de Uso
-![Exemplo de Página](assets/Capturar.png)
 
 ## Contribuição
 🤝 Contribuições são bem-vindas! Sinta-se à vontade para abrir um *pull request* ou relatar problemas.
 
 ## Licença
 📜 Este projeto está licenciado sob a MIT License. Veja o arquivo `LICENSE` para mais detalhes.
-
-
-## Descrição
-
-🎉 Esta página foi desenvolvida para mostrar informações relevantes sobre o desenvolvedor João Bosco, incluindo seus portfólios acadêmicos e sonhos profissionais. Os usuários podem baixar documentos em PDF e visualizar detalhes sobre as metas de carreira.
-
 
 ## Tecnologias Utilizadas
 
