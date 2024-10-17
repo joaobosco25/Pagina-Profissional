@@ -13,6 +13,7 @@ Nesta página, poderá ver minhas informações, alguns certificados e currícul
 ## Como Usar
 1. **Clone o repositório**:
    ```bash
+   git clone https://github.com/joaobosco25/Pagina-Profissional.git
 ## Exemplo de Uso
 ![Exemplo de Página](assets/Capturar.png)
 ## Contribuição
