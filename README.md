@@ -1,5 +1,5 @@
 # Projeto da Página Pessoal
-Este é um projeto de uma página pessoal interativa, onde você pode conhecer mais sobre João Bosco...
+Nesta página, poderá ver minhas informações, alguns certificados e currículo, para me conhecer um pouco melhor...
 ## Índice
 - [Descrição](#descrição)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
