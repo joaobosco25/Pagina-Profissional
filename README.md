@@ -52,6 +52,8 @@ Este é um projeto de uma página pessoal interativa, onde você pode conhecer m
 
 
 ## Estrutura de Diretórios
+
+```text
 nome-do-repositorio/
 ├── index.html
 ├── style.css
@@ -66,6 +68,7 @@ nome-do-repositorio/
 │   └── bg-mobile.jpg
 ├── script.js
 └── modal.js
+```
 
 
 
